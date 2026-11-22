@@ -359,7 +359,7 @@ Jika kredensial telah terunggah, segera ganti atau revoke token lama dan bersihk
 Tambahkan tautan video demonstrasi pada repository atau di bagian ini.
 
 ```text
-Video Demo: [MASUKKAN LINK YOUTUBE UNLISTED / GOOGLE DRIVE]
+https://drive.google.com/drive/folders/1XE3072FmOEQVhpq6jeEKfg4GvdQbUipp?usp=drive_link
 ```
 
 ## Lisensi
